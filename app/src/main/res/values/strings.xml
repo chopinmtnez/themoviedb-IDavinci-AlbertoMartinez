@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alberto Martinez Martin</string>
+    <string name="action_likes">Likes</string>
+    <string name="url_get_movies">https://api.themoviedb.org/3/movie/popular?api_key=</string>
+    <string name="url_get_movie_detail">https://api.themoviedb.org/3/movie/{movie_id}?api_key=</string>
+    <string name="api_key">b66ffea8276ce576d60df52600822c88</string>
+    <string name="path_photos">http://image.tmdb.org/t/p/w185/</string>
+    <string name="saved">Movie Saved</string>
+    <string name="alreadysaved">Already Saved or Error</string>
+    <string name="removed">Movie Removed</string>
+    <string name="errormessage">An error has ocurred</string>
+    <string name="filemovies">ficheromovies.txt</string>
+</resources>
